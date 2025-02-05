@@ -3,3 +3,5 @@ run.sh
 gsup.sh
 gsdown.sh
 .env
+apitests.http
+httpservergo
